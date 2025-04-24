@@ -38,7 +38,7 @@ You'll also need:
 
 ## Facebook Session Setup
 
-1. Install [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
+1. Install [CopyCookies]([https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg](https://chromewebstore.google.com/detail/copy-cookies/jcbpglbplpblnagieibnemmkiamekcdg))
 2. Log in to Facebook
 3. Navigate to your target housing group
 4. Export cookies as `.json`
